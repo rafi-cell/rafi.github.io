@@ -92,3 +92,16 @@ footer {
     margin-right: 20px;
     border-radius: 10%;
 }
+
+/* styles.css */
+a[download] {
+    color: #007BFF;
+    text-decoration: none;
+    border-bottom: 1px dashed #007BFF;
+}
+
+a[download]:hover {
+    color: #0056b3;
+    border-bottom: 1px solid #0056b3;
+}
+
